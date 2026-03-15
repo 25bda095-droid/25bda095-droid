@@ -17,7 +17,7 @@
 I am a Data Science and Artificial Intelligence student with a deep-rooted passion for Cybersecurity. Currently, I am bridging the gap between intelligent systems and secure infrastructure. I recently migrated my entire workflow to **Linux** to better explore system internals and security research.
 
 * 🔭 **Currently working on:** Mastering DSA and Full-Stack Development.
-* 🛡️ **Specialization:** Cybersecurity Minor (starting 2nd year).
+* 🛡️ **Specialization:** Cybersecurity Minor (starting from 2nd year).
 * 📊 **Interest:** Financial Analytics and its intersection with AI-driven fraud detection.
 * 🐧 **Environment:** Linux Power User in training.
 
