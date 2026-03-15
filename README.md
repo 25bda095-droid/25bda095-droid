@@ -131,7 +131,7 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
 </p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/25bda095-droid/25bda095-droid/main/header.png" alt="Rishav Mishra Header" width="900"/>
+  <img src="https://raw.githubusercontent.com/25bda095-droid/SearchMeInYourTech/main/LifeSymbol.png" width="900"/>
 </p>
 
 <p align='center'>
@@ -144,7 +144,7 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=Hello+From+Rishav+Mishra!!;DSAI+Student+%7C+Cyber+Security+Minor;Building+Secure+AI+Solutions" />
 </p>
-```text
+```
 DSAI Student | Cyber Security Enthusiast | Linux Explorer
 ```
 
