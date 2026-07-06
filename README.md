@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/25bda095-droid/SearchMeInYourTech/main/LifeSymbol.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/25bda095-droid/SearchMeInYourTech/main/LifeSymbol.jpeg" width="900"/>
 </p>
 
 <p align='center'>
