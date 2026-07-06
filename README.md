@@ -14,18 +14,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=DSAI+Student+%7C+Cyber+Security+Minor;Building+Secure+AI+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=500&lines=DSAI+Student+%7C+Generative+AI+Minor;Building+Generative+AI+Solutions" />
 </p>
 
 ```
-DSAI Student | Cyber Security Enthusiast | Linux Explorer
+DSAI Student | Generative AI Enthusiast | Linux Explorer
 ```
 
 ### 👋 About Me
-I am a Data Science and Artificial Intelligence student with a deep-rooted passion for Cybersecurity. Currently, I am bridging the gap between intelligent systems and secure infrastructure. I recently migrated my entire workflow to **Linux** to better explore system internals and security research.
+I am a Data Science and Artificial Intelligence student with a deep-rooted passion for Generative AI. Currently, I am exploring how large language models, embeddings, and multimodal pipelines can power intelligent, creative systems. I recently migrated my entire workflow to **Linux** to better explore system internals and streamline my AI development environment.
 
-* 🔭 **Currently working on:** Mastering DSA and Full-Stack Development.
-* 🛡️ **Specialization:** Cybersecurity Minor (starting from 2nd year).
+* 🔭 **Currently working on:** Mastering DSA, Full-Stack Development, and Generative AI fundamentals.
+* 🤖 **Specialization:** Generative AI Minor (starting from 2nd year).
 * 📊 **Interest:** Financial Analytics and its intersection with AI-driven fraud detection.
 * 🐧 **Environment:** Linux Power User in training.
 
@@ -49,12 +49,12 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=eset&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Financial_Analytics-118D57?style=for-the-badge&logo=google-analytics&logoColor=white" />
 </p>
 
 * **DSA Progress:** Successfully completing 1st-year DSA fundamentals; scaling up LeetCode intensity for 2nd year.
-* **Operating Systems:** Switched from Windows to Linux to enhance development efficiency and security testing capabilities.
+* **Operating Systems:** Switched from Windows to Linux to enhance development efficiency and AI experimentation capabilities.
 
 ---
 
@@ -67,6 +67,5 @@ I am a Data Science and Artificial Intelligence student with a deep-rooted passi
 ---
 
 <p align="center">
-🎯 <i>"Securing the future of AI, one commit at a time."</i>
+🎯 <i>"Generating the future of AI, one commit at a time."</i>
 </p>
-
